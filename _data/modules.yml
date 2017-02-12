@@ -1,33 +1,33 @@
-- name: Course Introduction
-  slug: course-introduction 
+#- name: Course Introduction
+#  slug: course-introduction 
 
 - name: Project Management
   slug: project-management 
 
-- name: Shell
-  slug: shell
+#- name: Shell
+#  slug: shell
 
-- name: Programming
-  slug: programming
+#- name: Programming
+#  slug: programming
 
-- name: Version Control
-  slug: version-control
+#- name: Version Control
+#  slug: version-control
 
-- name: Reproducible Workflows
-  slug: reproducible-workflows
+#- name: Reproducible Workflows
+#  slug: reproducible-workflows
 
-- name: Graphs and Visualisation
-  slug: graphs-and-visualisation
+#- name: Graphs and Visualisation
+#  slug: graphs-and-visualisation
 
-- name: Identifiers
-  slug: identifiers
+#- name: Identifiers
+#  slug: identifiers
 
-- name: Sharing
-  slug: sharing
+#- name: Sharing
+#  slug: sharing
 
-- name: Licensing
-  slug: licensing
+#- name: Licensing
+#  slug: licensing
 
-- name: Publication
-  slug: publication
+#- name: Publication
+#  slug: publication
 
